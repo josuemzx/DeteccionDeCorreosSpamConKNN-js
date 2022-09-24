@@ -1,0 +1,18 @@
+#chart-container{
+    height: 98vmin;
+    width: 105vmin;
+    margin-top: 10vmin;
+    float: left;
+}
+
+#form{
+    background-color: #f7f7f7;
+    float: left;
+    text-align: center;
+    margin-left: 15vmin;
+    margin-top: -10vmin;
+    padding-left:5vmin;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #fff;
+}
+
